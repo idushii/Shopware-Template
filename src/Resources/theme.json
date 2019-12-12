@@ -1,0 +1,20 @@
+{
+  "name": "Mmmm",
+  "author": "Shopware AG",
+  "views": [
+     "@Storefront",
+     "@Plugins",
+     "@Mmmm"
+  ],
+  "style": [
+    "@Storefront",
+    "app/storefront/src/scss/base.scss"
+  ],
+  "script": [
+    "@Storefront",
+    "app/storefront/dist/storefront/js/.js"
+  ],
+  "asset": [
+    "app/storefront/src/assets"
+  ]
+}
